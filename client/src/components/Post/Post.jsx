@@ -36,6 +36,7 @@ const Post = ({ data }) => {
         </span>
         <span>{data.desc}</span>
       </div>
+      
 
       <div className="postReact">
         <input

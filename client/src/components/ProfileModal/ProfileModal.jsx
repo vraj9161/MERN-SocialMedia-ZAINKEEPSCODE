@@ -131,7 +131,7 @@ const ProfileModal = ({ modalOpened, setModalOpened, data }) => {
             onChange={handleChange}
             type="text"
             className="infoInput"
-            placeholder="Current Project status"
+            placeholder="Relationship status"
             name="relationship"
           />
         </div>
